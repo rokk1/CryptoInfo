@@ -29,7 +29,6 @@ namespace CryptoInfo
         public BinanceClient client;
         public double lastPrice = -1;
 
-
         public MainWindow()
         {
 
